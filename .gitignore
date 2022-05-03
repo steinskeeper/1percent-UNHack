@@ -1,0 +1,5 @@
+1percent-frontend/node_modules
+1percent-backend/node_modules
+1percent-frontend/public/build
+package-lock.json
+1percent-frontend/.vscode
